@@ -2,7 +2,8 @@
 int main()
 {
    using namespace std;
-   cout <<"el pablo es weco"<<endl;
+   cout <<"PUEBLO MARRÓN"<<endl;
+   cout <<"SEXOOOOOOOO"<<endl;
 
     return 0;
 }
